@@ -1,1 +1,1 @@
-# ZERON_server
+# ZERON(bot)_server
